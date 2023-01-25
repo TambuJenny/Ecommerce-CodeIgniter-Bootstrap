@@ -1,14 +1,14 @@
 <style>
     body {
-        background-image:url('<?php echo base_url('assets/imgs/login-bg.png') ?>');
+        background-image:url('<?php echo base_url('assets/imgs/Guides_The-ultimate-guide-to-administrative-tasks.png') ?>');
         background-position: bottom  right;
         background-repeat: no-repeat;
-        background-color:#548fd0;
+        background-color:#fff;
     }
     .avatar {background-image:url('<?php echo base_url('assets/imgs/login-cover.png') ?>')}
 </style>
 <div class="container">
-    <div class="login-container">
+    <div class="">
         <div id="output">       
             <?php
             if ($this->session->flashdata('err_login')) {

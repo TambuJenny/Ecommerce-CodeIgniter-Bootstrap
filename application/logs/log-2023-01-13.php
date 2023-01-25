@@ -1,0 +1,73 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2023-01-13 01:18:32 --> 404 Page Not Found: /index
+ERROR - 2023-01-13 01:18:32 --> 404 Page Not Found: /index
+ERROR - 2023-01-13 01:18:40 --> 404 Page Not Found: /index
+ERROR - 2023-01-13 01:18:40 --> 404 Page Not Found: /index
+ERROR - 2023-01-13 01:19:19 --> 404 Page Not Found: /index
+ERROR - 2023-01-13 01:19:20 --> 404 Page Not Found: /index
+ERROR - 2023-01-13 01:19:40 --> 404 Page Not Found: /index
+ERROR - 2023-01-13 01:19:40 --> 404 Page Not Found: /index
+ERROR - 2023-01-13 01:20:05 --> 404 Page Not Found: /index
+ERROR - 2023-01-13 01:20:05 --> 404 Page Not Found: /index
+ERROR - 2023-01-13 01:20:18 --> 404 Page Not Found: /index
+ERROR - 2023-01-13 01:20:18 --> 404 Page Not Found: /index
+ERROR - 2023-01-13 01:20:29 --> 404 Page Not Found: /index
+ERROR - 2023-01-13 01:20:29 --> 404 Page Not Found: /index
+ERROR - 2023-01-13 01:23:26 --> 404 Page Not Found: /index
+ERROR - 2023-01-13 01:23:26 --> 404 Page Not Found: /index
+ERROR - 2023-01-13 01:24:30 --> 404 Page Not Found: /index
+ERROR - 2023-01-13 01:24:30 --> 404 Page Not Found: /index
+ERROR - 2023-01-13 01:27:45 --> 404 Page Not Found: /index
+ERROR - 2023-01-13 01:27:45 --> 404 Page Not Found: /index
+ERROR - 2023-01-13 01:28:58 --> 404 Page Not Found: /index
+ERROR - 2023-01-13 01:28:58 --> 404 Page Not Found: /index
+ERROR - 2023-01-13 01:29:06 --> 404 Page Not Found: /index
+ERROR - 2023-01-13 01:29:06 --> 404 Page Not Found: /index
+ERROR - 2023-01-13 01:29:10 --> 404 Page Not Found: /index
+ERROR - 2023-01-13 01:29:10 --> 404 Page Not Found: /index
+ERROR - 2023-01-13 01:29:13 --> 404 Page Not Found: /index
+ERROR - 2023-01-13 01:29:14 --> 404 Page Not Found: /index
+ERROR - 2023-01-13 01:29:14 --> 404 Page Not Found: /index
+ERROR - 2023-01-13 01:29:14 --> 404 Page Not Found: /index
+ERROR - 2023-01-13 01:29:14 --> 404 Page Not Found: /index
+ERROR - 2023-01-13 01:29:15 --> 404 Page Not Found: /index
+ERROR - 2023-01-13 01:29:16 --> 404 Page Not Found: /index
+ERROR - 2023-01-13 01:29:17 --> 404 Page Not Found: /index
+ERROR - 2023-01-13 01:29:17 --> 404 Page Not Found: /index
+ERROR - 2023-01-13 01:29:24 --> 404 Page Not Found: /index
+ERROR - 2023-01-13 01:29:24 --> 404 Page Not Found: /index
+ERROR - 2023-01-13 01:30:36 --> 404 Page Not Found: /index
+ERROR - 2023-01-13 01:30:36 --> 404 Page Not Found: /index
+ERROR - 2023-01-13 01:31:12 --> 404 Page Not Found: /index
+ERROR - 2023-01-13 01:31:12 --> 404 Page Not Found: /index
+ERROR - 2023-01-13 01:32:11 --> 404 Page Not Found: /index
+ERROR - 2023-01-13 01:32:13 --> 404 Page Not Found: /index
+ERROR - 2023-01-13 01:32:36 --> 404 Page Not Found: /index
+ERROR - 2023-01-13 01:32:36 --> 404 Page Not Found: /index
+ERROR - 2023-01-13 01:32:55 --> 404 Page Not Found: /index
+ERROR - 2023-01-13 01:32:55 --> 404 Page Not Found: /index
+ERROR - 2023-01-13 01:32:56 --> 404 Page Not Found: /index
+ERROR - 2023-01-13 01:32:56 --> 404 Page Not Found: /index
+ERROR - 2023-01-13 01:33:45 --> 404 Page Not Found: /index
+ERROR - 2023-01-13 01:33:45 --> 404 Page Not Found: /index
+ERROR - 2023-01-13 01:33:46 --> 404 Page Not Found: /index
+ERROR - 2023-01-13 01:33:47 --> 404 Page Not Found: /index
+ERROR - 2023-01-13 01:34:32 --> 404 Page Not Found: /index
+ERROR - 2023-01-13 01:34:33 --> 404 Page Not Found: /index
+ERROR - 2023-01-13 01:34:42 --> 404 Page Not Found: /index
+ERROR - 2023-01-13 01:34:42 --> 404 Page Not Found: /index
+ERROR - 2023-01-13 01:34:50 --> 404 Page Not Found: /index
+ERROR - 2023-01-13 01:34:50 --> 404 Page Not Found: /index
+ERROR - 2023-01-13 01:34:52 --> 404 Page Not Found: /index
+ERROR - 2023-01-13 01:34:53 --> 404 Page Not Found: /index
+ERROR - 2023-01-13 01:34:54 --> 404 Page Not Found: /index
+ERROR - 2023-01-13 01:34:54 --> 404 Page Not Found: /index
+ERROR - 2023-01-13 08:48:56 --> 404 Page Not Found: /index
+ERROR - 2023-01-13 08:48:56 --> 404 Page Not Found: /index
+ERROR - 2023-01-13 09:00:55 --> Image Upload Error: <p>You did not select a file to upload.</p>
+ERROR - 2023-01-13 09:02:29 --> 404 Page Not Found: /index
+ERROR - 2023-01-13 09:02:29 --> 404 Page Not Found: /index
+ERROR - 2023-01-13 09:17:42 --> Severity: Notice --> Trying to access array offset on value of type null C:\wamp64\www\Ecommerce-CodeIgniter-Bootstrap\application\views\templates\greenlabel\checkout.php 43
+ERROR - 2023-01-13 09:17:56 --> Severity: Notice --> Trying to access array offset on value of type null C:\wamp64\www\Ecommerce-CodeIgniter-Bootstrap\application\views\templates\greenlabel\checkout.php 43
+ERROR - 2023-01-13 09:18:21 --> Mailer Error: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting

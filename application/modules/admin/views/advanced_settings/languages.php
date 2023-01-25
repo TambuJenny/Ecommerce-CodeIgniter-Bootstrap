@@ -1,4 +1,4 @@
-<div id="languages">
+<div id="languages" style="background-color:black;">
     <h1><img src="<?= base_url('assets/imgs/small-globe.png') ?>" class="header-img" style="margin-top:-3px;"> Languages</h1> 
     <hr>
     <?php

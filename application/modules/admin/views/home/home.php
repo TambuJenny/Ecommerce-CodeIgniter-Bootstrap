@@ -3,7 +3,7 @@
 <script src="<?= base_url('assets/highcharts/drilldown.js') ?>"></script>
 <h1><img src="<?= base_url('assets/imgs/admin-home.png') ?>" class="header-img" style="margin-top:-3px;"> Home</h1>
 <hr>
-<div class="home-page">
+<div class="home-page" style="background-color:black;">
     <div class="row">
         <div class="col-lg-12">
             <ol class="breadcrumb">

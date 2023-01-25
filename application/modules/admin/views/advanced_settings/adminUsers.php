@@ -1,4 +1,4 @@
-<div id="users">
+<div id="users" style="background-color:black;">
     <h1><img src="<?= base_url('assets/imgs/admin-user.png') ?>" class="header-img" style="margin-top:-3px;"> Admin Users</h1> 
     <hr>
     <?php if (validation_errors()) { ?>

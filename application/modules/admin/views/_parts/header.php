@@ -18,7 +18,7 @@
         <![endif]-->
     </head>
     <body>
-        <div id="wrapper">
+        <div id="wrapper" style="background-color:black;">
             <div id="content">
                 <?php if ($this->session->userdata('logged_in')) { ?>
                     <nav class="navbar navbar-default">
@@ -67,8 +67,8 @@
                         </div>
                     </nav>
                 <?php } ?>
-                <div class="container-fluid">
-                    <div class="row">
+                <div class="container-fluid" style="background-color:black;" >
+                    <div class="row" style="background-color:black;" >
                         <?php if ($this->session->userdata('logged_in')) { ?>
                             <div class="col-sm-3 col-md-3 col-lg-2 left-side navbar-default">
                                 <div class="show-menu">
@@ -114,11 +114,12 @@
                                         </a>
                                     </li>
                                     <li><a href="<?= base_url('admin/discounts') ?>" <?= urldecode(uri_string()) == 'admin/discounts' ? 'class="active"' : '' ?>><i class="fa fa-percent" aria-hidden="true"></i> Discount Codes</a></li>
-                                    <?php if (in_array('blog', $activePages)) { ?>
+                                    <?php
+                                    /* if (in_array('blog', $activePages)) { ?>
                                         <li class="header">BLOG</li>
                                         <li><a href="<?= base_url('admin/blogpublish') ?>" <?= urldecode(uri_string()) == 'admin/blogpublish' ? 'class="active"' : '' ?>><i class="fa fa-edit" aria-hidden="true"></i> Publish post</a></li>
                                         <li><a href="<?= base_url('admin/blog') ?>" <?= urldecode(uri_string()) == 'admin/blog' ? 'class="active"' : '' ?>><i class="fa fa-th" aria-hidden="true"></i> Posts</a></li>
-                                    <?php } ?>
+                                    <?php } */?>
                                     <?php
                                     if (!empty($textualPages)) {
                                         foreach ($nonDynPages as $nonDynPage) {
@@ -134,7 +135,9 @@
                                         }
                                     }
                                     ?>
-                                    <li class="header">SETTINGS</li>
+                                    <?php 
+                                    /*
+                                        <li class="header">SETTINGS</li>
                                     <li><a href="<?= base_url('admin/settings') ?>" <?= urldecode(uri_string()) == 'admin/settings' ? 'class="active"' : '' ?>><i class="fa fa-wrench" aria-hidden="true"></i> Settings</a></li>
                                     <li><a href="<?= base_url('admin/styling') ?>" <?= urldecode(uri_string()) == 'admin/styling' ? 'class="active"' : '' ?>><i class="fa fa-laptop" aria-hidden="true"></i> Styling</a></li>
                                     <li><a href="<?= base_url('admin/templates') ?>" <?= urldecode(uri_string()) == 'admin/templates' ? 'class="active"' : '' ?>><i class="fa fa-binoculars" aria-hidden="true"></i> Templates</a></li>
@@ -146,7 +149,10 @@
                                     <li><a href="<?= base_url('admin/languages') ?>" <?= urldecode(uri_string()) == 'admin/languages' ? 'class="active"' : '' ?>><i class="fa fa-globe" aria-hidden="true"></i> Languages</a></li>
                                     <li><a href="<?= base_url('admin/filemanager') ?>" <?= urldecode(uri_string()) == 'admin/filemanager' ? 'class="active"' : '' ?>><i class="fa fa-file-code-o" aria-hidden="true"></i> File Manager</a></li>
                                     <li><a href="<?= base_url('admin/adminusers') ?>" <?= urldecode(uri_string()) == 'admin/adminusers' ? 'class="active"' : '' ?>><i class="fa fa-user" aria-hidden="true"></i> Admin Users</a></li>
-                                </ul>
+                                
+                                    */
+                                    ?>
+                                    </ul>
                             </div>
                             <div class="col-sm-9 col-md-9 col-lg-10 col-sm-offset-3 col-md-offset-3 col-lg-offset-2">
                                 <?php if ($warnings != null) { ?>
